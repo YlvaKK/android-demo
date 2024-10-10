@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Game</string>
+    <string name="tryck_inte">Travel west</string>
+    <string name="time_zone">You are in %s</string>
+</resources>
